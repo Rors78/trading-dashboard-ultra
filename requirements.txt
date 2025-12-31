@@ -1,0 +1,11 @@
+pillow
+numpy
+psutil
+matplotlib
+seaborn
+plotly
+requests
+websocket-client
+pandas
+pydub
+pygame

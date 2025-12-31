@@ -1,0 +1,32 @@
+# Configuration with API keys
+config.json
+*.env
+.env
+
+# Trading data
+*.csv
+*.json
+!requirements.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Generated assets
+screenshots/
+recordings/

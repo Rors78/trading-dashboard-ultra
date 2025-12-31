@@ -1,0 +1,1 @@
+QUICK START:\n1. Run ULTRA_PREMIUM_SETUP.bat as Administrator.\n2. Choose a launcher.\n3. Profit.\n
