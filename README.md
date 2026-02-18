@@ -80,14 +80,26 @@ Premium configuration with Golden Goose integration.
 3. Choose your preferred launcher
 
 **Linux/Mac**:
-```bash
+**Windows:**
+```powershell
 pip install -r requirements.txt
+```
+
+**Linux/macOS:**
+```bash
+pip3 install -r requirements.txt
 ```
 
 ### Dependencies
 
-```bash
+**Windows:**
+```powershell
 pip install pillow numpy psutil matplotlib seaborn plotly requests websocket-client pandas pydub pygame
+```
+
+**Linux/macOS:**
+```bash
+pip3 install pillow numpy psutil matplotlib seaborn plotly requests websocket-client pandas pydub pygame
 ```
 
 ## Quick Start
@@ -257,5 +269,7 @@ Potential additions:
 Provided as-is for personal use and learning.
 
 ---
+
+> **API keys are optional.** Paper/read-only mode uses the public REST API — no account or key required. Keys are only needed for live order execution.
 
 **Trade smart, monitor smarter** 📊✨
